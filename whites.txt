@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Version: 202108110401
-! Title: qihoo 360 so white list
+! Title: dogzhen'white list test
 ! Last modified: 11 Aug 2021 04:01 UTC
 ! Expires: 1 days (update frequency)
-! Homepage: https://m.so.com
+! Homepage: https://m.zheng.xom
 !
 ! EasyList China and EasyList combination subscription
 !
