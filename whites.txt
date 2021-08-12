@@ -1,2 +1,2 @@
 [Adblock Plus 2.0]
-@@||g.manmankan.com^$document,domain=g.manmankan.com
+@@||g.manmankan.com^$domain=manmankan.com,document
