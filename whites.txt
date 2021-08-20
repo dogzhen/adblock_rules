@@ -26,6 +26,6 @@ m.taobao.com
 m.youku.com
 m.iqiyi.com
 m.tencen.com
-m.image.com
-m.baike.com
+m.image.so.com
+m.baike.so.com
 
